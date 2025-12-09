@@ -1,0 +1,10 @@
+snowflake-snowpark-python
+pandas
+numpy
+prophet
+statsmodels
+plotly
+xgboost
+openpyxl
+xlsxwriter
+streamlit
